@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Cow.
 
-I like to <---Insert anything you want--->.
+I like to play with RHesidents.
 
-I think I am <---Insert anything you want--->.
+I think I am a cow.
