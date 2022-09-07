@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Chin Herng.
 
-I like to <---Insert anything you want--->.
+I like to wake up.
 
-I think I am <---Insert anything you want--->.
+I think I am Chin Herng.
