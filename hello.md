@@ -1,6 +1,6 @@
 # hello
-My name is Cow.
+My name is Chun Yu.
 
-I like to play with RHesidents.
+I like to code.
 
-I think I am a cow.
+I think I am cool.
