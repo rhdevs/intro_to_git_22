@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Wei Hao.
 
-I like to <---Insert anything you want--->.
+I like to play games.
 
-I think I am <---Insert anything you want--->.
+I think I am one of RHDevs.
