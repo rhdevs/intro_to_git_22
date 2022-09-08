@@ -1,6 +1,7 @@
 # hello
-My name is Cow.
 
-I like to play with RHesidents.
+My name is Webster.
 
-I think I am a cow.
+I like to play games. 
+
+I think I am doing my best to survive uni. 
