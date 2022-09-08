@@ -1,8 +1,6 @@
 # hello
+My name is Cow.
 
-My name is Kang Xu.
+I like to play with RHesidents.
 
-I like to sleep.
-
-I think I am not not Kang Xu.
-
+I think I am a cow.
