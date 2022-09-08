@@ -1,4 +1,3 @@
-# hello
 My name is Ervin.
 
 I like to eat.
