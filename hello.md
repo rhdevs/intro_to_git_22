@@ -1,6 +1,5 @@
-# hello
-My name is Cow.
+My name is Ervin.
 
-I like to play with RHesidents.
+I like to eat.
 
-I think I am a cow.
+I think I am cool.
