@@ -1,6 +1,6 @@
 # hello
-My name is <---Insert name--->.
+My name is Vina.
 
-I like to <---Insert anything you want--->.
+I like to have a good night sleep.
 
-I think I am <---Insert anything you want--->.
+I think I am looking forward to learn more!
