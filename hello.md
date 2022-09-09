@@ -1,6 +1,6 @@
 # hello
-My name is Cow.
+My name is Wei Hao.
 
-I like to play with RHesidents.
+I like to play games.
 
-I think I am a cow.
+I think I am one of RHDevs.
