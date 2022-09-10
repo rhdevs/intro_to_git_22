@@ -1,6 +1,6 @@
 # hello
-My name is Manoj.
+My name is Wei Sheng.
 
-I like to code>.
+I like to code!!!
 
-I think I am cool.
+I think I am cool. (hell yeah)
