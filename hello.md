@@ -1,7 +1,7 @@
 
-My name is Justin.
+My name is Tze Heng.
 
-I like to play with ball.
+I like to have fun.
 
-I think I like men.
+I think I like things.
 
