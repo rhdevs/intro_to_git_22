@@ -1,7 +1,7 @@
 
-My name is Justin.
+My name is JingZhi.
 
-I like to play with ball.
+I like to eat sushi.
 
-I think I like men.
+I think I do not like sushi.
 
