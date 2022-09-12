@@ -1,7 +1,8 @@
 
-My name is Justin.
+hello
+My name is <---Brian Liew--->.
 
-I like to play with ball.
+I like to <---Learn More About Software Engineering--->.
 
-I think I like men.
+I think I am <---A Tech Noob--->.
 
