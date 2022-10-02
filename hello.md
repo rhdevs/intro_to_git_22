@@ -1,8 +1,8 @@
 
 hello
-My name is <---Brian Liew--->.
+My name is Megan.
 
-I like to <---Learn More About Software Engineering--->.
+I like to Learn More About Software Engineering.
 
-I think I am <---A Tech Noob--->.
+I think I am A Tech Noob.
 
